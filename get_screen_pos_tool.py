@@ -1,0 +1,1 @@
+#make sure it doesn't give just coordinates but works for different resolutions
